@@ -18,7 +18,7 @@
                 <ul>
                     <li><a href="dashboard.php">Inicio</a></li>
                     <li><a href="libros.php">Gestión de Libros</a></li>
-                    <li><a href="">Gestión de Usuarios</a></li>
+                    <li><a href="#">Gestión de Usuarios</a></li>
                     <li><a href="prestamos.php">Gestión de Préstamos</a></li>
                     <li><a href="<?= BASE_URL ?>/auth/logout">Cerrar Sesión</a></li>
                 </ul>
